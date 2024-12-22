@@ -23,3 +23,4 @@ total_price = cart.get_total()
 
 # Output: total price
 print("Total Price:",total_price)
+print("Total Price:",total_price)
